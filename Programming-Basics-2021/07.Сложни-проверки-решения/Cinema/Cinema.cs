@@ -2,7 +2,7 @@
 
 class Cinema
 {
-    //9.Кино
+    // Задача 9. Кино
     static void Main()
     {
         var type = Console.ReadLine();
