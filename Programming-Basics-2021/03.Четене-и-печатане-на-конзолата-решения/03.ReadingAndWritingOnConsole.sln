@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.csproj", "{8703F926-279F-44BE-8FC0-1215BD4831DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenateData", "ConcatenateData\ConcatenateData.csproj", "{0CF48511-9803-4BA0-A1E0-97EFC4751677}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeting", "Greeting\Greeting.csproj", "{645C48D8-9DF8-40C5-AA55-236B91A0201E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimetres", "InchesToCentimetres\InchesToCentimetres.csproj", "{124BDD18-21BB-4B1B-8B02-780C15CAE96A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{B0DCC45E-E55E-46C0-AA0C-CD5BC288E6C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareArea", "SquareArea\SquareArea.csproj", "{BAB3F16B-CB31-45C4-B766-9108501DE78A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USDToBGN", "USDToBGN\USDToBGN.csproj", "{3C090C57-C567-46C9-B981-908837E3D20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8703F926-279F-44BE-8FC0-1215BD4831DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8703F926-279F-44BE-8FC0-1215BD4831DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8703F926-279F-44BE-8FC0-1215BD4831DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8703F926-279F-44BE-8FC0-1215BD4831DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF48511-9803-4BA0-A1E0-97EFC4751677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF48511-9803-4BA0-A1E0-97EFC4751677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF48511-9803-4BA0-A1E0-97EFC4751677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF48511-9803-4BA0-A1E0-97EFC4751677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645C48D8-9DF8-40C5-AA55-236B91A0201E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645C48D8-9DF8-40C5-AA55-236B91A0201E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645C48D8-9DF8-40C5-AA55-236B91A0201E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645C48D8-9DF8-40C5-AA55-236B91A0201E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{124BDD18-21BB-4B1B-8B02-780C15CAE96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124BDD18-21BB-4B1B-8B02-780C15CAE96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124BDD18-21BB-4B1B-8B02-780C15CAE96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124BDD18-21BB-4B1B-8B02-780C15CAE96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DCC45E-E55E-46C0-AA0C-CD5BC288E6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DCC45E-E55E-46C0-AA0C-CD5BC288E6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DCC45E-E55E-46C0-AA0C-CD5BC288E6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DCC45E-E55E-46C0-AA0C-CD5BC288E6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB3F16B-CB31-45C4-B766-9108501DE78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB3F16B-CB31-45C4-B766-9108501DE78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB3F16B-CB31-45C4-B766-9108501DE78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB3F16B-CB31-45C4-B766-9108501DE78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C090C57-C567-46C9-B981-908837E3D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C090C57-C567-46C9-B981-908837E3D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C090C57-C567-46C9-B981-908837E3D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C090C57-C567-46C9-B981-908837E3D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {248CBA96-BF60-4AE0-B490-D98981FFEBB4}
+	EndGlobalSection
+EndGlobal
